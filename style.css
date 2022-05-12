@@ -1,0 +1,24 @@
+.body1{
+    background: red;
+}
+#P1, #P2{
+    background-color: white;
+    color: black;
+}
+.login{
+    background-color: lightgreen;
+    width: 300px;
+}
+.text-danger{
+    color: red;
+}
+.word_input{
+    width: 75%;
+    height: 50px;
+}
+.Send{
+    background: green;
+    width: 20%;
+    color: white;
+    height: 50px;
+}
